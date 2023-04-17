@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+sklearn_extra  ### of sklean don´t install , try -U scikit-learn-extra
