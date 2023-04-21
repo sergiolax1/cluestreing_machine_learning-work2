@@ -1,0 +1,8 @@
+For circular distributions such as noisy_moons and noyse_circles there is a better 
+separation of the clusters with the spectral clustering and DBSCAN methods,
+ while for the blobs and X_aniso distributions the data is more dispersed and
+ centralized in its groups, so the k-means and the k-medoids prove to be the 
+best methodologies in these cases.
+
+For the No_structure and X_aniso distributions, in general, the 4 methods are 
+very similar when it comes to choosing and grouping the data into the clusters.
